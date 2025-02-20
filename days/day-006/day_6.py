@@ -49,23 +49,22 @@ Using if and else (and input), do the following:
 
 # My solution below:
 
-#1 Using if and else
-age = int(input("Whats your age?"))
-#2 Using if and else
+# 1 — Age: adult or minor
+age = int(input("What's your age? "))
 if age >= 18:
     print("You are an adult.")
 else:
     print("You are a minor.")
 
-#3 Using if and else
-number = int(input("Whats your number?"))
+# 2 — Number: positive or zero/negative
+number = int(input("What's your number? "))
 if number > 0:
     print("Positive.")
 else:
     print("Zero or negative.")
 
-#4 Using if and else
-password = input("Whats your password?")
+# 4 — Password check (using .strip() so spaces don't block access)
+password = input("What's your password? ").strip()
 if password == "python":
     print("Access granted.")
 else:

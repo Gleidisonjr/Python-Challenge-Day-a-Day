@@ -4,6 +4,21 @@ Personal challenge: learn Python from **zero to advanced**, step by step. No fix
 
 ---
 
+## Objectives
+
+- **Python:** Learn Python from zero to advanced (basics, core libraries, Data Science, Analytics, ML & AI) following the roadmap step by step.
+- **English:** Improve and train English for my professional career. Documentation, commits, and practice in this project are also used to build fluency and technical English.
+
+---
+
+## How I use Cursor in this project
+
+- **Commits and deploy:** I use Cursor to manage commits and push this project (e.g. to GitHub).
+- **Learning support:** Cursor helps me understand topics, clarify doubts, and learn.
+- **Code assistance only:** I write the code myself. At most, I use Cursor to get help with solutions, fix errors, and resolve issues — but the coding is done by me. I do not use AI to generate my code; I use it to support and unblock me while I practice.
+
+---
+
 ## About this challenge
 
 - **Personal challenge** — your rhythm, your roadmap.

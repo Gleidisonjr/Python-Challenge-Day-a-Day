@@ -8,7 +8,7 @@ Step-by-step list of **exactly what to study**. Pick a step, study the topic (do
 
 | Step | Topic | Exactly what to study | Done |
 |------|--------|------------------------|------|
-| 0 | Variables and Hello World | Variables, `print()`, first script | [ ] |
+| 0 | Variables and Hello World | Variables, `print()`, first script | [x] |
 | 1 | Data types | `int`, `float`, `str`, `bool`, `type()` | [ ] |
 | 2 | Operators | Arithmetic, comparison, assignment | [ ] |
 | 3 | User input | `input()`, converting to int/float | [ ] |

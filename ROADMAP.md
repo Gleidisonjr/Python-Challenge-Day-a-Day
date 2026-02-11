@@ -1,6 +1,6 @@
 # Python Challenge Day a Day — Roadmap
 
-Step-by-step list of **exactly what to study**. Pick a step, study the topic (docs, courses, videos), code in a folder (e.g. `day-000`), then mark **Done** and commit.
+Step-by-step list of **exactly what to study**. Pick a step, study the topic (docs, courses, videos), code in a folder inside `days/` (e.g. `days/day-000`), then mark **Done** and commit.
 
 ---
 

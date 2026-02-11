@@ -170,7 +170,7 @@ Below is a **specific** list of what to study in each stage. One topic per step;
 
 1. **Pick a step** from the table above (or from [ROADMAP.md](ROADMAP.md) if you use the day-by-day version).
 2. **Study** that topic — docs, courses, videos.
-3. **Code** — create a folder (e.g. `day-000`, `day-001`) and put your scripts there.
+3. **Code** — create a folder inside `days/` (e.g. `days/day-000`, `days/day-001`) and put your scripts there.
 4. **Track progress** — mark what you've done in [ROADMAP.md](ROADMAP.md) or `progress.md`.
 5. **Commit often** — small commits to keep the challenge going.
 
@@ -183,9 +183,11 @@ Python-Challenge-Day-a-Day/
 ├── README.md           # This file (roadmap summary)
 ├── ROADMAP.md          # Full day-by-day list — mark done items here
 ├── progress.md         # Optional: dates, what you studied
-├── day-000/            # Step 0: variables, print, first script
-├── day-001/            # Step 1: types
-├── ...
+├── days/               # All daily practice (one folder for every day)
+│   ├── day-000/        # Step 0: variables, print, first script
+│   ├── day-001/        # Step 1: types
+│   ├── day-002/
+│   └── ...
 └── projects/           # Optional: larger projects (DS or ML)
 ```
 

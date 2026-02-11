@@ -41,7 +41,7 @@ Below is a **specific** list of what to study in each stage. One topic per step;
 | Step | Topic | Exactly what to study |
 |------|--------|------------------------|
 | 0 | Variables and Hello World | Variables, `print()`, running your first script |
-| 1 | Data types | `int`, `float`, `str`, `bool`, and `type()` |
+| 1 | Data types | `int`, `float`, `str`, `bool`, `list`, `tuple`, `range`, `dict`, and `type()` |
 | 2 | Operators | Arithmetic (`+`, `-`, `*`, `/`, `//`, `%`), comparison (`==`, `!=`, `<`, `>`), assignment (`=`, `+=`) |
 | 3 | User input | `input()`, converting input to int/float (e.g. `int(input())`) |
 | 4 | Strings (basics) | Concatenation (`+`), f-strings (`f"..."`), indexing and slicing |

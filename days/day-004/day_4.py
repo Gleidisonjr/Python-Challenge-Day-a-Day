@@ -64,9 +64,11 @@ print(f"The first character of {first_name} is {first_name[0]}")
 print(f"The last character of {last_name} is {last_name[-1]}")
 
 #5
-first_3_characters = first_name[0:3]
-last_2_characters = last_name[-2:]
-reverse_full_name = concatenation[::-1]
+first_3_characters = first_name[0:3] #slicing the first 3 characters
+last_2_characters = last_name[-2:] #slicing the last 2 characters
+reverse_full_name = concatenation[::-1] #reversing the full name  
 
 #6
 print(f"The first 3 characters of {first_name} are {first_3_characters}")	
+print(f"The last 2 characters of {last_name} are {last_2_characters}")
+print(f"The full name in reverse is {reverse_full_name}")

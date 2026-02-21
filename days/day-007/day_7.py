@@ -57,3 +57,40 @@ Using if, elif, else (and optionally nested if), do the following:
 
 # My solution below:
 
+# 1 — Number: positive, zero or negative
+number = int(input("What's your number? "))
+if number > 0:
+    print("Positive.")
+elif number == 0:
+    print("Zero.")
+else:
+    print("Negative.")  
+
+# 2 — Age: child, teenager, adult or senior
+age = int(input("What's your age? "))
+if age < 13:
+    print("Child.")
+elif age <= 17:
+    print("Teenager.")
+elif age <= 64:
+    print("Adult.")
+else:
+    print("Senior.")  
+
+# 3 — Day of the week: weekday or weekend (Saturday and Sunday = weekend)
+day = input("What's the day of the week? ")
+if day == "Saturday" or day == "Sunday":
+    print("Weekend.")
+else:
+    print("Weekday.")  
+
+# 4 — Nested if: age and ID (yes/no). Only print "You can enter" if they are 18+ and have an ID. Otherwise print an appropriate message.
+age = int(input("What's your age? "))
+has_id = input("Do you have an ID? (yes/no) ").strip().lower()
+if age >= 18:
+    if has_id == "yes":
+        print("You can enter.")
+    else:
+        print("You need an ID to enter.")
+else:
+    print("You must be 18 or older to enter.")
